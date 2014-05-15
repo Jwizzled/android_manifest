@@ -1,5 +1,5 @@
 ##Initialize the source##
-repo init -u https://github.com/MrBaNkS/android_manifest.git -b kk
+repo init -u https://github.com/Jwizzled/android_manifest.git -b kk
 
 ##Sync the source##
 repo sync -jx -f (x being however many cpu jobs)
