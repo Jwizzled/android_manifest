@@ -430,7 +430,7 @@
   <project path="tools/motodev" name="platform/tools/motodev" groups="notdefault,motodev" />
   <project path="tools/studio/cloud" name="platform/tools/studio/cloud" groups="notdefault,tools" />
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" />
-  <project path="vendor/banks" name="Jwizzled/android_vendor_banks" remote="github" revision="kk" />
+  <project path="vendor/jwizzled" name="Jwizzled/android_vendor_jwizzled" remote="github" revision="kk" />
   <project path="vendor/lge" name="Jwizzled/android_vendor_lge" remote="github" revision="kk" />
 
 </manifest>
